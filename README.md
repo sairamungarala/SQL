@@ -1,2 +1,3 @@
 # SQL
-SQL BASIC LEVEL
+SQL intermediate level
+

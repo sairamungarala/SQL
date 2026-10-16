@@ -1,3 +1,3 @@
 # SQL
-SQL intermediate level
+SQL Basic level
 
